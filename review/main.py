@@ -1,3 +1,4 @@
+#This is the first thing that is happening for the git projects
 #This is just a comments that says it all: Git is fun
 a = "Networking is fun, but "
 b = 'DevOps is fun too. However, '
