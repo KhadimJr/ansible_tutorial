@@ -1,4 +1,4 @@
-
+#This is just a comments that says it all: Git is fun
 a = "Networking is fun, but "
 b = 'DevOps is fun too. However, '
 c = """What about Coding?....Super fun"""
